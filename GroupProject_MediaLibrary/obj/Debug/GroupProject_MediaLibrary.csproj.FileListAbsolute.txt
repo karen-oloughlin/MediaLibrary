@@ -15,3 +15,11 @@ C:\Users\meji2\Documents\School\4 Spring 2018 Semester\Advanced C#\GroupProject_
 C:\Users\meji2\Documents\School\4 Spring 2018 Semester\Advanced C#\GroupProject_MediaLibrary\GroupProject_MediaLibrary\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.pdb
 C:\Users\meji2\Documents\School\4 Spring 2018 Semester\Advanced C#\GroupProject_MediaLibrary\GroupProject_MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.dll
 C:\Users\meji2\Documents\School\4 Spring 2018 Semester\Advanced C#\GroupProject_MediaLibrary\GroupProject_MediaLibrary\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.pdb
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Group Project\MediaLibrary-master\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll.config
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Group Project\MediaLibrary-master\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.dll
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Group Project\MediaLibrary-master\GroupProject_MediaLibrary\bin\GroupProject_MediaLibraryf.pdb
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Group Project\MediaLibrary-master\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Group Project\MediaLibrary-master\GroupProject_MediaLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Group Project\MediaLibrary-master\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Group Project\MediaLibrary-master\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.dll
+C:\Users\uchyt\Documents\Schoolwork\CIS 174\Group Project\MediaLibrary-master\GroupProject_MediaLibrary\obj\Debug\GroupProject_MediaLibraryf.pdb
